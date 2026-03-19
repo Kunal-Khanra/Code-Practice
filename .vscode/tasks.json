@@ -7,9 +7,7 @@
       "command": "g++-15",
       "args": [
         "-std=c++17",
-        "${file}",
-        "-o",
-        "${fileDirname}/${fileBasenameNoExtension}"
+        "${file}"
       ],
       "group": {
         "kind": "build",
