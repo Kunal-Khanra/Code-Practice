@@ -1,0 +1,5 @@
+{
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.enabled": false
+}
